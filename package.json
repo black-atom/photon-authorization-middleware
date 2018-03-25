@@ -1,0 +1,13 @@
+{
+  "name": "photon-authorization-middleware",
+  "version": "1.0.2",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "main": "authMiddleware.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:black-atom/photon-authorization-middleware.git"
+  }
+}
